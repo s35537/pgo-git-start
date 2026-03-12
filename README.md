@@ -17,3 +17,15 @@ git checkout -b - tworzenie nowej gałęzi
 
 git merge - scalanie gałęzi
 
+
+
+Etapy ćwiczenia
+
+1\. Inicjalizacja lokalnego repozytorium i pierwszy commit
+
+2\. Publikacja repozytorium na GitHubie
+
+3\. Gałąź feature/readme - rozszerzenie dokumentacji
+
+4\. Gałąź feature/info - dodanie informacji o aplikacji
+
