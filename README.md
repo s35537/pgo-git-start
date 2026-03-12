@@ -17,6 +17,8 @@ git checkout -b - tworzenie nowej gałęzi
 
 git merge - scalanie gałęzi
 
+git push -u origin main - wysyłanie historii i ustawienie upstream dla gałęzi main
+
 
 
 Repozytorium ćwiczeniowe do nauki Git i Github
