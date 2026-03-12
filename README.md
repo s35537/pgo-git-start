@@ -19,6 +19,10 @@ git merge - scalanie gałęzi
 
 
 
+Repozytorium ćwiczeniowe do nauki Git i Github
+
+
+
 Etapy ćwiczenia
 
 1. Inicjalizacja lokalnego repozytorium i pierwszy commit
